@@ -1,4 +1,4 @@
-const contactForm = () => {
+const ContactForm = () => {
   return (
     <div>
       <input type="text" />
@@ -7,4 +7,4 @@ const contactForm = () => {
   );
 };
 
-export default contactForm;
+export default ContactForm;

@@ -1,4 +1,4 @@
-const hero = () => {
+const Hero = () => {
   return (
     <div>
       <h1>This Title is created by react</h1>
@@ -10,4 +10,4 @@ const hero = () => {
   );
 };
 
-export default hero;
+export default Hero;
